@@ -1,7 +1,7 @@
 {
-  "name": "cmdate",
-  "version": "1.0.0",
-  "description": "Una utilidad para manejar fechas en formatos timestamp y longtime.",
+  "name": "@cmolinaalvarez/cmdate",
+  "version": "1.0.1",
+  "description": "Una utilidad para manejar fechas en formatos timestamp, longtime y shortdate.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
