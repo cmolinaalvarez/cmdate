@@ -1,0 +1,13 @@
+{
+  "name": "cmdate",
+  "version": "1.0.0",
+  "description": "Una utilidad para manejar fechas en formatos timestamp y longtime.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["date","nodejs"],
+  "author": "Carlos Molina <cmolinaalvarez@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs"
+}
