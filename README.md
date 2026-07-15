@@ -6,7 +6,7 @@ Una utilidad para manejar fechas en formatos timestamp y longtime.
 
 ```bash
 
-npm install cmdate
+npm install @cmolinaalvarez/cmdate
 
 ```
 
